@@ -2,6 +2,15 @@
 
 ## MBDS 2025-2026 - Université Côte d'Azur
 
+### Liens rapides
+- **API en ligne** : https://restaurant-api-d862.onrender.com
+- **Swagger UI** : https://restaurant-api-d862.onrender.com/swagger-ui.html
+- **Collection Postman** : `postman_collection.json` (dans le repo)
+
+> Premier accès : ~50 secondes (réveil du serveur gratuit)
+
+---
+
 ### Membres de l'équipe
 
 | Membre | Rôle | Travail réalisé |
@@ -133,7 +142,15 @@ mvn spring-boot:run
 
 L'API sera accessible sur `http://localhost:8080`
 
-### Liens utiles
+### Version en ligne
+
+L'API est déployée sur Render :
+- **URL** : https://restaurant-api-d862.onrender.com
+- **Swagger UI** : https://restaurant-api-d862.onrender.com/swagger-ui.html
+
+> Note : le premier accès peut prendre ~50 secondes (réveil du serveur gratuit)
+
+### Liens utiles (local)
 - **Swagger UI** : http://localhost:8080/swagger-ui.html
 - **H2 Console** : http://localhost:8080/h2-console (JDBC URL: `jdbc:h2:mem:restaurantdb`, user: `sa`, password: vide)
 
