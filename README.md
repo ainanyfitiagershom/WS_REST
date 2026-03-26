@@ -5,7 +5,8 @@
 ### Liens rapides
 - **API en ligne** : https://restaurant-api-d862.onrender.com
 - **Swagger UI** : https://restaurant-api-d862.onrender.com/swagger-ui.html
-- **Collection Postman** : `postman_collection.json` (dans le repo)
+- **Collection Postman (local)** : `postman_collection.json`
+- **Collection Postman (en ligne)** : `postman_collection_online.json`
 
 > Premier accès : ~50 secondes (réveil du serveur gratuit)
 
